@@ -62,5 +62,5 @@ Welcome to my GitHub profile! I'm into building scalable applications, designing
 <p align="center">
   <i>"if it works, don't touch it"</i> 
   <br>
-  <i>"I'm joking lol"</i>
+  <i>I'm joking lol</i>
 </p>
