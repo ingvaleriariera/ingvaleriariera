@@ -60,5 +60,6 @@ Welcome to my GitHub profile! I'm into building scalable applications, designing
 ---
 
 <p align="center">
-  <i>"Code, learn, iterate, repeat."</i> 🚀
+  <i>"if it works, don't touch it"</i>
+  <i>"I'm joking lol"</i>
 </p>
